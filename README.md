@@ -1,4 +1,4 @@
 filearch
 ========
 
-File archive system for Limux
+File archive system for Linux
